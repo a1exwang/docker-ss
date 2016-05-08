@@ -1,0 +1,11 @@
+{
+    "server":"::",
+    "server_port":8123,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"ygbkm+1995",
+    "timeout":300,
+    "method":"aes-192-cfb",
+    "fast_open": false
+}
+
